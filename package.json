@@ -1,0 +1,14 @@
+{
+  "name": "using-hono-for-react-server-components",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "exercises/*"
+  ],
+  "author": "chimame",
+  "license": "MIT"
+}
